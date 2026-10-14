@@ -6,6 +6,5 @@ codeunit 50000 "Test Codeuit"
     begin
         Message('Testing');
         Message('Okk');
-        Message('Hello');
     end;
 }
