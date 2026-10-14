@@ -5,5 +5,6 @@ codeunit 50000 "Test Codeuit"
         myInt: Integer;
     begin
         Message('Testing');
+        Message('Okk');
     end;
 }
